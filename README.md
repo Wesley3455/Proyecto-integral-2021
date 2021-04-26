@@ -1,9 +1,10 @@
-# Proyecto-integral-2021
-proyecto lampara
+# Proyecto-lampara-integral-2021
 
 
 esta es la pagina que voy a documentar la lampara y el dibujo
-Referencia
+
+
+## Referencia
 
 He visto este proyecto y me ha gustado:
 
