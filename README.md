@@ -1,5 +1,9 @@
 # Proyecto-lampara-integral-2021
 
+NM:Wesley Barbosa Camargo
+FECHA:
+
+
 
 * esta es la pagina que voy a documentar la lampara y el dibujo
 
@@ -10,11 +14,12 @@
 
 [enlace](https://www.youtube.com/watch?v=mwwMJocGT2g)
 
- yo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino
+* yo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino
 
 ## Sobre el tipo de bombilla
 
- mi lampara va tener un les con varios colores 
+ mi lampara va tener un les con varios colores y detalle de mi gusto
+
 
 ## Sobre la pantalla y el soporte
 
