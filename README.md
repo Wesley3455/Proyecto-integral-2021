@@ -10,28 +10,30 @@
 
 [enlace](https://www.youtube.com/watch?v=mwwMJocGT2g)
 
-* yo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino
+ yo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino
 
 ## Sobre el tipo de bombilla
 
-* mi lampara va tener un les con varios colores 
+ mi lampara va tener un les con varios colores 
 
 ## Sobre la pantalla y el soporte
 
-* lo voy hacer con madera,botella te agua,el led no se ve pq va estar dentro de una botella llena de agua 
-* tiene forma cuadrada por que es la madera y lo que se va iluminar tiene forma redonda 
-* el color que quiero usar uno blanco,rojo,verde y posible azul
-* bueno para que se quede mas guapa la madera que va estar el arduino lo voy hacer un detalle por ejemplo el logo del free fire
-* los cables que van alimentar el arduino sala por un abujero que esta abajo de la madera,tengo dos por lo minimo
+ lo voy hacer con madera,botella te agua,el led no se ve pq va estar dentro de una botella llena de agua 
+ tiene forma cuadrada por que es la madera y lo que se va iluminar tiene forma redonda 
+ el color que quiero usar uno blanco,rojo,verde y posible azul
+ bueno para que se quede mas guapa la madera que va estar el arduino lo voy hacer un detalle por ejemplo el logo del free fire
+ los cables que van alimentar el arduino sala por un abujero que esta abajo de la madera,tengo dos por lo minimo
 
 ## Sobre el mecanismo
 
-* jo quiero hacer el proyecto con dos botones,uno que cuando le doy se enciende y el otro se apague 
-* por que asi facilita saber cual es el boton de apagar e encender 
-* y el efecto que quiero,brilla un color voy a poner un delay de pocos segundos y se encienda otro color 
-* claro es necesario hacer con el arduino 
+ jo quiero hacer el proyecto con dos botones,uno que cuando le doy se enciende y el otro se apague 
+ por que asi facilita saber cual es el boton de apagar e encender 
+ y el efecto que quiero,brilla un color voy a poner un delay de pocos segundos y se encienda otro color 
+ claro es necesario hacer con el arduino 
 
 ## Las heramientas 
 
-* necesito soldar,la madera,unas resistencias,el led RGB,uns pistola de cilicone,una botella con agua claro eso al final etc
+ necesito soldar,la madera,unas resistencias,el led RGB,uns pistola de cilicone,una botella con agua claro eso al final etc
+ 
+ * proceso
                                                                                                                                                  
