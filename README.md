@@ -38,7 +38,7 @@
 
 ## Las heramientas 
 
- necesito soldar,la madera,unas resistencias,el led RGB,uns pistola de cilicone,una botella con agua claro eso al final etc
+ necesito soldar,la madera,unas resistencias,el led RGB,unas pistola de cilicone,una botella con agua claro eso al final,etc
  
  * enlace de la apresentacion
                                                                                                                                                  
