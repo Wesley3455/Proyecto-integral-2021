@@ -18,7 +18,7 @@
 
 ## Sobre la pantalla y el soporte
 
- lo voy hacer con madera,botella te agua,el led no se ve pq va estar dentro de una botella llena de agua 
+ lo voy hacer con madera,botella te agua,el led no se ve pq va estar dentro de una botella pequeña de plastico y su tapa
  tiene forma en circulo por que es la madera y lo que se va iluminar tiene forma en cuadrada pero yo lo voy hacer diferente 
  el color que quiero usar uno blanco,rojo,verde y posible azul
  bueno para que se quede mas guapa la madera que va estar el arduino lo voy hacer un detalle por ejemplo el logo del free fire
@@ -35,5 +35,5 @@
 
  necesito soldar,la madera,unas resistencias,el led RGB,uns pistola de cilicone,una botella con agua claro eso al final etc
  
- * proceso
+ * enlace de la apresentacion
                                                                                                                                                  
