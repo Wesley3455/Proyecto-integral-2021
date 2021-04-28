@@ -23,22 +23,21 @@
 
 ## Sobre la pantalla y el soporte
 
- lo voy hacer con madera,botella de agua.El led no se ve pq va estar dentro de una botella pequeña de plastico y su tapa
- tiene forma en cuadrada por que es la madera y lo que se va iluminar tiene forma en circulo pero yo lo voy hacer diferente 
+ lo voy hacer con madera .El led no se ve pq va estar dentro de la caja 
+ tiene forma en cuadrada por que es con varias partes cortada en los lados
  el color que quiero usar uno blanco,rojo,verde y si posible en azul
  bueno para que se quede mas guapa la madera que va estar el arduino lo voy hacer un detalle por ejemplo el logo del free fire
- los cables que van alimentar el arduino sala por un abujero que esta abajo de la madera,tengo dos por lo minimo
+ los cables que van alimentar el arduino sale por un abujero que esta abajo de la madera paar que sale los cables que voya usar para encender el led
 
 ## Sobre el mecanismo
 
- jo quiero hacer el proyecto con dos botones,uno que cuando le doy se enciende y el otro se apague 
- porque asi facilita saber cual es el boton de apagar y encender por ejemplo en uno pongo off y el otro play
+ lo voy hacer con un potenciometro para encender el LED
  y el efecto que quiero,brilla un color voy a poner un delay de pocos segundos y se encienda el otro  
  claro es necesario hacer con el arduino 
 
 ## Las heramientas 
 
- necesito soldar,la madera,unas resistencias,el led RGB,unas pistola de cilicone,una botella con agua claro eso al final,etc
+ necesito soldar,la madera con las medidas corecta ,unas resistencias,el led RGB,etc
  
- * enlace de la apresentacion
+ ## enlace de la apresentacion
                                                                                                                                                  
