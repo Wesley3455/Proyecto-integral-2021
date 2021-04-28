@@ -14,7 +14,7 @@
 
 [enlace](https://www.youtube.com/watch?v=mwwMJocGT2g)
 
-* yo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino
+* yo voy hacer la lampara de madera,con litro de agua y con las luzes RGB
 
 ## Sobre el tipo de bombilla
 
