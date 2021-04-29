@@ -41,7 +41,7 @@
  
  ## CODIGOS
  
- este codigo me lo hecho para ver se funcionaBA el potenciometros con el LED RGB 
+ este codigo me lo hecho para ver se funcionaba el potenciometros con el LED RGB 
  
 * [codigo de prueba](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/proyecto_lampara_apr27a.ino)
 
