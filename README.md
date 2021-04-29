@@ -1,6 +1,6 @@
 # Proyecto-lampara-integral-2021
 
-###### NM: Wesley Barbosa Camargo 
+###### NB: Wesley Barbosa Camargo 
 ###### FECHA:
 
 
