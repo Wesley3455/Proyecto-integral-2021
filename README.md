@@ -37,7 +37,9 @@
  
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/camargo%20box(2).svg)
  
- esta es la imagen d las medidas que voy a cortar falta cosas pero al pocos voy acabando
+ esta es la imagen d las medidas que voy a cortar falta cosas pero al pocos voy acabando,y el codigo
+ 
+* [codigo](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/proyecto_lampara_apr27a.ino)
  
  
 ## Las heramientas 
