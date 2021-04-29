@@ -41,7 +41,7 @@
  
  ## CODIGOS
  
-* [codigo](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/proyecto_lampara_apr27a.ino)
+* [codigo de prueba](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/proyecto_lampara_apr27a.ino)
 
 
 * [codigo final](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/proyecto_real_apr27a.ino) 
