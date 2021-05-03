@@ -37,6 +37,11 @@
  
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/camargo%20box(2).svg)
  
+ 
+ ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/medidas%20final.svg)
+
+ 
+ 
  esta es la imagen d las medidas que voy a cortar falta cosas pero al pocos voy acabando,y el codigo
  
  ## CODIGOS
