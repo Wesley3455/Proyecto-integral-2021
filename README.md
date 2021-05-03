@@ -48,6 +48,10 @@
 
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/1620028496918.jpg)
  
+ ## fotos del proceso
+ 
+ ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/1620028888026.jpg)
+ 
  
  esta es la imagen d las medidas que voy a cortar falta cosas pero al pocos voy acabando,y el codigo
  
