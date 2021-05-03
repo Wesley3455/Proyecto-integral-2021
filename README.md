@@ -45,6 +45,7 @@
  
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/1620028705658.jpg)
  
+ Foto de la medida que quiero y para el corte 
 
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/1620028496918.jpg)
  
