@@ -39,7 +39,7 @@
  
   Foto de la medida que quiero y para el corte 
  
- ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/medidas%20final.svg)
+ 
  
  las fotos que lo echo para medir se estaba bien
  
