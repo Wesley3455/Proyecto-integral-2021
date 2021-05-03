@@ -39,7 +39,14 @@
  
  
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/medidas%20final.svg)
+ 
+ las fotos que lo echo para medir se estaba bien
+ 
+ 
+ ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/1620028705658.jpg)
+ 
 
+ ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/1620028496918.jpg)
  
  
  esta es la imagen d las medidas que voy a cortar falta cosas pero al pocos voy acabando,y el codigo
