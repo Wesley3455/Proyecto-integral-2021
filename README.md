@@ -1,5 +1,8 @@
 # Proyecto-lampara-integral-2021
 
+# [FOTO DEL PROCESO](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/FOTO%20DEL%20PROCESO)
+
+
 ###### NB: Wesley Barbosa Camargo 
 ###### FECHA:
 ###### proyecto lampara led RGB
