@@ -56,7 +56,7 @@
  
 el abujero de una pieza estaba mal y tenia que hacer otra pieza
 
-![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/impresion02vg.svg)
+![foto](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/impresion02vg.svg)
  
  
  esta es la imagen d las medidas que voy a cortar falta cosas pero al pocos voy acabando,y el codigo
