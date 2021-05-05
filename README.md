@@ -8,7 +8,7 @@
 # [foto del proceso](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/FOTO%20DEL%20PROCESO.md)
 
 
-# [REFERENCIA](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/REFERENCIA)
+# [REFERENCIA](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/REFERENCIA.md)
 
 
 * esta es la pagina que voy a documentar la lampara y el dibujo
