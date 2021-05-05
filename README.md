@@ -5,13 +5,13 @@
 ###### FECHA:
 ###### proyecto lampara led RGB
 
-# [*foto del proceso](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/FOTO%20DEL%20PROCESO.md)
+# * [foto del proceso](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/FOTO%20DEL%20PROCESO.md)
 
 
-# [*REFERENCIA](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/REFERENCIA.md)
+# * [REFERENCIA](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/REFERENCIA.md)
 
 
-# [*CODIGOS](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/CODIGOS.md)
+# * [CODIGOS](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/CODIGOS.md)
  
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/camargo%20box(2).svg)
  
