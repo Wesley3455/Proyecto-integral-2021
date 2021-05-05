@@ -22,3 +22,9 @@
  lo voy hacer con un potenciometro para encender el LED
  y el efecto que quiero,brilla un color voy a poner un delay de pocos segundos y se encienda el otro  
  claro es necesario hacer con el arduino 
+
+## Las heramientas 
+
+ necesito soldar,la madera con las medidas corecta ,unas resistencias,el led RGB,etc
+ 
+ ## enlace de la apresentacion
