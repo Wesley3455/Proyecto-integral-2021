@@ -31,5 +31,6 @@ los abujeros etc
  
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/pieza%20de%20la%20caja.svg)
  
+ La caja echa 
 
  ![](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/wesleybc.jpg)
