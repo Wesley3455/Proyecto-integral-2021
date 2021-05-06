@@ -2,7 +2,7 @@
 
  
 ###### NB: Wesley Barbosa Camargo 
-###### FECHA:
+###### FECHA:06/mayo/2021
 ###### proyecto lampara led RGB
 
 #  [foto del proceso](https://github.com/Wesley3455/Proyecto-integral-2021/blob/main/FOTO%20DEL%20PROCESO.md)
